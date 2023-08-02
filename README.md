@@ -1,3 +1,8 @@
+![banner](https://github.com/ifuzail/ifuzail/assets/135622982/ef6ad0c0-caed-45d2-a78e-98ea6287d528)
+
+
+
+
 # 💫 About Me:
  Hey there! I'm a passionate web developer interested in creating engaging online experiences.<br><br><br>🔭 I’m currently working on a Next 13 project named Freeble🤝 I’m looking for help with<br>🌱 I’m currently learning Node js | Express js | mongoDB | Postgres<br>💬 Ask me about Anything<br>⚡ Fun fact is that I am also an Author, I wrote 2 fiction Novels and published them.
 
